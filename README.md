@@ -19,4 +19,11 @@ I try to write interesting websites based on the latest technologies.
 <li>Redux</li>
 </ul>
 
+## Links
+<a href="https://www.linkedin.com/in/kunegunda-kosek/">Linkedin</a>
+<a href="https://github.com/KunegundaKosek">GitHub</a>
+<a href="https://kunegundakosek.github.io/PageKunegunda/">Portfolio</a>
+<a href="https://kunegundakosek.github.io/ProjectReact-Router/">Application using React</a>
 
+## Contact
+Email: <a href="mailto:kosekkuengunda@gmail.com">kosekkunegunda@gmail.com</a>
