@@ -20,13 +20,13 @@ I try to write interesting websites based on the latest technologies.
 </ul>
 
 ## Links
-<a href="https://www.linkedin.com/in/kunegunda-kosek/">Linkedin</a>
+<a target="_blank" href="https://www.linkedin.com/in/kunegunda-kosek/">Linkedin</a>
 <br/>
-<a href="https://github.com/KunegundaKosek">GitHub</a>
+<a target="_blank" href="https://github.com/KunegundaKosek">GitHub</a>
 <br/>
-<a href="https://kunegundakosek.github.io/PageKunegunda/">Portfolio</a>
+<a target="_blank" href="https://kunegundakosek.github.io/PageKunegunda/">Portfolio</a>
 <br/>
-<a href="https://kunegundakosek.github.io/ProjectReact-Router/">Application using React</a>
+<a target="_blank" href="https://kunegundakosek.github.io/ProjectReact-Router/">Application using React</a>
 
 ## Contact
 Email: <a href="mailto:kosekkuengunda@gmail.com">kosekkunegunda@gmail.com</a>
