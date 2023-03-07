@@ -21,8 +21,11 @@ I try to write interesting websites based on the latest technologies.
 
 ## Links
 <a href="https://www.linkedin.com/in/kunegunda-kosek/">Linkedin</a>
+<br/>
 <a href="https://github.com/KunegundaKosek">GitHub</a>
+<br/>
 <a href="https://kunegundakosek.github.io/PageKunegunda/">Portfolio</a>
+<br/>
 <a href="https://kunegundakosek.github.io/ProjectReact-Router/">Application using React</a>
 
 ## Contact
