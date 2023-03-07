@@ -2,6 +2,10 @@
 
 <b>Feel free to browse my projects.</b>
 
+<p>
+A beginner Junior Frontend Developer, successively implementing courses to improve professional competences. Passionate about programming with excellent organizational skills and an analytical sense. Focused on finding innovative solutions. Effectively working in a team. Focused on continuous development and gaining new knowledge.
+</p>
+
 I'm interested in <b>JavaScript.</b>
 I try to write interesting websites based on the latest technologies.
 
